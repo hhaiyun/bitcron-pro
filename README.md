@@ -1,6 +1,7 @@
 # bitcron-pro
 Gridea-theme bitcron-pro
 
+<<<<<<< HEAD
 [原版地址](https://github.com/qyxtim/bitcron-pro) 
 
 基于原版删去了：
